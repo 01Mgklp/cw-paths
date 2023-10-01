@@ -17,6 +17,10 @@ h1{
     text-align: center;
 }
 
+.container{
+    margin-bottom: 2%;
+}
+
 .container section{
     width: 85vw;
     height: 50vh;
